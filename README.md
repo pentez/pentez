@@ -1,52 +1,82 @@
-# Hi there, I'm Pentez! 👋
+<!-- README.md | Designed for Pentez -->
 
-![GitHub Banner](https://github.com/pentez/pentez/blob/main/assets/banner.png)
+<h1 align="center">🖖 Welcome to Pentez's Developer Space</h1>
 
-I'm a passionate developer on a mission to build impactful solutions, automate workflows, and explore the magic of code one project at a time 🚀
-
----
-
-## 🧑‍💻 About Me
-- 🎓 Background in Computer Science and Embedded Systems
-- 💼 Currently focused on Developer Productivity, GitHub Automation & Code Quality
-- 🌍 Based in Canada, open to remote/global work opportunities
-- 🧪 Love working on side projects, learning through building, and contributing to open source
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Creative+Thinker+%7C+Fullstack+Explorer;DevOps+Enthusiast+%7C+Open+Source+Contributor;Living+the+GitHub+Life+24%2F7" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+## 🧠 About Me
+
+```
+> whoami
+👨‍💻 Developer, learner, and automation enthusiast building my way through code.
+
+> mission --now
+🌟 Crafting a standout GitHub presence & building real-world dev projects
+
+> toolbox --tech
+🛠️ JavaScript · Node.js · React · Python · GitHub Actions · Bash · Linux
+
+> fun --fact
+⚡ Once built a dev timeline generator just for the vibes
+```
 
 ---
 
-## 📈 GitHub Stats
-![Pentez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentez&layout=compact&theme=tokyonight)
+## 🧪 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,git,github,bash,docker,vscode,linux&perline=7" />
+</p>
 
 ---
 
-## 🔥 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pentez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🎯 Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pentez&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pentez&show_icons=true&theme=tokyonight&hide=stars,contribs&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pentez)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/pentez_dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://pentez.github.io/)
+## 🔭 Projects In Progress
+
+⏳ Currently curating and building:
+
+- **Project Portfolio** - Developer storytelling meets real code  
+- **Automation Wizards** - GitHub workflows that commit, PR, and review  
+- **Jekyll Blog / Personal Site** - To be hosted on GitHub Pages
+
+_(All to be showcased here as I build!)_
 
 ---
 
-## ✨ Fun Facts
-- 🧠 I enjoy automating things more than doing them manually
-- 💬 Ask me about fake commit timelines and GitHub hacks
-- 🎨 I love building things that *look* good and *work* better
+## 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pentez&theme=gruvbox&no-frame=true&margin-w=10&rank=A,B,C&no-bg=true" />
+</p>
 
 ---
 
-> "You don't need to be perfect. Just keep showing up." — Unknown ✨
+## 📡 Contact & Updates
+
+🔗 Personal site, blog, socials — **coming soon**
+
+🌐 Portfolio will be hosted via [GitHub Pages](https://pages.github.com) with a modern theme (Jekyll/Next.js)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pentez&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
+<!-- end README -->
