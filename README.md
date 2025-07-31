@@ -63,7 +63,7 @@ Built custom ETL pipelines with Python & SQL. - Automated business reporting wit
 
 ### 4.  Inventory & Invoicing Automation Suite
 <p>
-  <img src="https://via.placeholder.com/600x200?text=BlogHub" alt="BlogHub" width="100%" />
+  <img src="https://via.placeholder.com/600x200?text=BlogHub" alt="AutomationSuite" width="100%" />
 </p>
 - **Domain:** Enterprise & Cloud Integration
 - **Summary:**  
