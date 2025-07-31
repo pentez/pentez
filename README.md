@@ -113,9 +113,9 @@ I continuously evaluate emerging technologies and integrate them to deliver main
 Have an idea or collaboration? Reach out!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/✉️_Email-red?logo=gmail" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/🔗_LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://github.com/asdcod"><img src="https://img.shields.io/badge/🐙_GitHub-black?logo=github" /></a>
+  <a href="mailto:asadali.code@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-red?logo=gmail" /></a>
+  <a href="https://linkedin.com/in/asadcse><img src="https://img.shields.io/badge/🔗_LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://github.com/pentez"><img src="https://img.shields.io/badge/🐙_GitHub-black?logo=github" /></a>
 </p>
 
 ---
