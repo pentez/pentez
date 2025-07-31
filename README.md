@@ -120,6 +120,6 @@ Have an idea or collaboration? Reach out!
 
 ---
 
-<p align="center">*View code, demos, and deep dives in each project’s repo.*</p>
+<p align="center">*Thank you for being here.*</p>
 
 <!-- End of README -->
