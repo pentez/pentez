@@ -1,6 +1,6 @@
 <!-- README.md | Portfolio Showcase -->
 
-<h1 align="center">🌐 A Ali’s Dev Portfolio</h1>
+<h1 align="center">🌐 AsaD’s Dev Portfolio</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Innovations+%7C+Engineering+Impact;Embedded+to+Cloud+%7C+Projects+That+Matter;Explore+Code+&+Stories" alt="Typing SVG" />
@@ -19,13 +19,14 @@
 
 > "Every line of code should tell a story."
 
-I’m **A Ali**, a Canada-based Computer Science Engineer who believes in shaping the future by building solutions that matter. My journey spans from crafting FPGA-driven sensor arrays to architecting serverless pipelines in the cloud—always guided by curiosity, impact, and continuous learning.
+I’m Asadullah Ali (AsaD), a Canada-based Software & Embedded Systems Engineer with 5+ years of practical experience connecting real-world hardware to efficient, scalable software and cloud automation. I thrive delivering user-focused, resourceful systems—especially in IoT, automation, and accessibility.
+
 
 What drives me:
 
 - **Impact-first mindset**: I dive deep into problems that improve user lives, whether accessible AI for the visually impaired or real-time environmental monitoring.
-- **End-to-end ownership**: From hardware schematics and firmware to CI/CD and monitoring dashboards—I own the full stack.
-- **Community & Collaboration**: Sharing knowledge via blog posts, open-source contributions, and mentoring peer developers.
+- **End-to-end ownership**: From hardware schematics and firmware to CI/CD and monitoring dashboards, I own the full stack.
+- **Lifelong Learner**: I’m constantly exploring the latest in embedded systems, data automation, DevOps, and security and I love to share knowledge.
 
 ---
 
@@ -33,45 +34,41 @@ What drives me:
 
 Below are standout projects organized by domain. Each includes a quick overview and key takeaways.
 
-### 1. VisionAide — Assistive AI Prototype
+### 1. VisionAide — Wearable Assistive AI Prototype
 <p>
   <img src="https://via.placeholder.com/600x200?text=VisionAide" alt="VisionAide" width="100%" />
 </p>
 - **Domain:** Computer Vision & Embedded  
-- **Highlights:**  
-  - **Edge AI:** Achieved 92% accuracy in object detection on Raspberry Pi.  
-  - **Low latency:** Optimized inference pipeline to reduce detection time by 30%.  
-  - **User trials:** Conducted live demos, gathering feedback from 15+ visually impaired participants.
+- **Summary:** 
+Developed a wearable device using Raspberry Pi and OpenCV, providing real-time audio feedback for visually impaired users. - Led testing and iteration based on end-user trials. 
+**Tech:** Python, Raspberry Pi, Sensors, OpenCV
 
-### 2. WeatherSense — IoT Monitoring Platform
+### 2. WeatherSense — IoT Weather Monitoring Platform
 <p>
   <img src="https://via.placeholder.com/600x200?text=WeatherSense" alt="WeatherSense" width="100%" />
 </p>
 - **Domain:** IoT & Real-time Data  
-- **Highlights:**  
-  - **MQTT Architecture:** Streamlined sensor-to-cloud communication, handling 50k+ data points/day.  
-  - **Interactive UI:** Built with React and D3.js for live charts and historical trends.  
-  - **Scalability:** Deployed backend on AWS ECS with auto-scaling groups.
+- **Summary:**
+Engineered an Arduino-based weather logger, transmitting data via MQTT to AWS DynamoDB, with live web dashboards. Enabled predictive analytics to support local farming. 
+**Tech:** Arduino, Python, MQTT, AWS, Node.js
 
-### 3. Eventify — High-Throughput Event Engine
+### 3.  ETL & Reporting Automation Solutions
 <p>
   <img src="https://via.placeholder.com/600x200?text=Eventify" alt="Eventify" width="100%" />
 </p>
 - **Domain:** Cloud-native & Microservices  
-- **Highlights:**  
-  - **Streaming:** Leveraged AWS Kinesis to process 10k events/sec with <50ms latency.  
-  - **Resilience:** Designed retry logic and dead-letter queues for fault tolerance.  
-  - **Developer Experience:** Provided SDKs in Node.js and Python for easy integration.
+- **Summary:**  
+Built custom ETL pipelines with Python & SQL. - Automated business reporting with Google Sheets API, Dropbox, and Power BI dashboards.
+**Tech:** Python, SQL, Google Sheets API, Power BI
 
-### 4. BlogHub — Static Site Generator
+### 4.  Inventory & Invoicing Automation Suite
 <p>
   <img src="https://via.placeholder.com/600x200?text=BlogHub" alt="BlogHub" width="100%" />
 </p>
-- **Domain:** Web & Content  
-- **Highlights:**  
-  - **Next.js Integration:** Dynamic Markdown support and SEO optimizations.  
-  - **CI/CD:** Automated Vercel deployments via GitHub Actions on merge to `main`.  
-  - **Performance:** Achieved 95+ Lighthouse scores in Accessibility & Best Practices.
+- **Domain:** Enterprise & Cloud Integration
+- **Summary:**  
+Developed and deployed Java automation tools for ERP, reducing manual workloads by 50% and system downtime by 30%. - Managed multi-cloud infrastructure and CRM integration. 
+**Tech:** Java, AWS, Azure, CRM, SQL
 
 ---
 
@@ -83,12 +80,12 @@ A visual timeline of key achievements and learnings.
 |------:|----------------------------------------------------------------|
 | 2018  | Built first Arduino-MQTT weather station; learned real-time IoT streaming  |
 | 2019  | Deployed sensor network prototype in local greenhouse; iterated on reliability |
-| 2020  | Launched BlogHub v1; wrote 15+ posts on cloud & DevOps best practices      |
+| 2020  | Delivered 8+ full-stack apps during internship & freelance projects      |
 | 2021  | Completed B.Tech; designed VHDL modules for FPGA-driven controllers        |
 | 2022  | Graduated PG Cert in Embedded Systems; open-sourced `awesome-automation` repo |
 | 2023  | Internally adopted VisionAide by 3 NGOs; recognized for accessibility innovations |
-| 2024  | Transitioned to cloud-native at ABC Corp; automated 70% of infra provisioning |
-| 2025  | Speaker at Tech Meetup: "Scaling Microservices to Petabyte Scale"          |
+| 2024  | Completed embedded systems postgrad; launched VisionAide prototype |
+| 2025  | Embedded Systems Engineer at Nominal Controls; focus on hardware-firmware QA  |
 
 ---
 
@@ -104,17 +101,10 @@ I continuously evaluate emerging technologies and integrate them to deliver main
 
 ## 🌐 Open Source & Community
 
-- **`awesome-automation`**: Curated list of CI/CD, infra-as-code, and developer tooling projects.  
-- **Node.js Issue Triage:** Reviewing PRs and managing bug queues.  
-- **Mentorship:** Hosting monthly “Code & Coffee” sessions in Waterloo region.
 
 ---
 
-## 📝 Writing & Talks
 
-- **Medium:** "Optimizing Edge AI on Constrained Devices"  
-- **Dev.to:** "Building Robust Serverless APIs with AWS Lambda"  
-- **Tech Meetup:** "Scaling Microservices to Petabyte Scale" (Slides & Recording)
 
 ---
 
